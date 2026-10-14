@@ -6,18 +6,20 @@ Programa que registra las lecturas de temperatura y humedad de un invernadero de
 
 ## Integrantes
 
-- [Nombre del integrante 1]
-- [Nombre del integrante 2]
-- [Nombre del integrante 3]
+- Adrián David Santos Buitrago
+- Freddy Stiven Rueda Hernandez
+- Breyner Cermeño Castellanos
 
 ## Información del curso
 
 | Dato | Información |
 | --- | --- |
-| Asignatura | Programación I |
+| Asignatura | Programación de Computadores 1 |
 | Docente | Carlos Carrascal |
-| Universidad | [Universidad] |
-| Fecha | Octubre de 2026 |
+| Programa | Ingeniería en Ciencias de la Computación e Inteligencia Artificial |
+| Universidad | Universidad de Santander |
+| Ciudad | Bucaramanga |
+| Fecha | 14/10/2026 |
 
 ## Video explicativo
 

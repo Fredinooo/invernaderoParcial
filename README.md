@@ -23,7 +23,7 @@ Programa que registra las lecturas de temperatura y humedad de un invernadero de
 
 ## Video explicativo
 
-[Enlace al video](https://enlaceAlVideo)
+https://youtu.be/2cNbNgrImoo?si=0tKoTPGiQa02_4K_
 
 ## Cómo funciona
 
